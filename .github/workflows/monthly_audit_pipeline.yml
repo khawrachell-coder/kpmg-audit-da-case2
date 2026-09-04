@@ -1,1 +1,47 @@
+name: Monthly Audit Risk Pipeline
 
+on:
+  workflow_dispatch:
+
+  push:
+    paths:
+      - "data/raw/**"
+      - "src/**"
+
+  schedule:
+    - cron: "0 1 1 * *"
+
+jobs:
+  audit-pipeline:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run monthly audit pipeline
+        run: |
+          python src/run_pipeline.py
+
+      - name: Verify outputs
+        run: |
+          test -f data/processed/transaction_risk_output.csv
+          test -f data/processed/model_performance.csv
+          test -f data/processed/validation_log.csv
+          test -f data/processed/fx_rate_exceptions.csv
+
+      - name: Upload audit outputs
+        uses: actions/upload-artifact@v4
+        with:
+          name: monthly-audit-risk-output
+          path: data/processed/
