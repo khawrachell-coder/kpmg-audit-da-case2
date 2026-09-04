@@ -1,0 +1,1202 @@
+[
+  {
+    "Date": "2024-01-01",
+    "Currency": "MYR",
+    "RateToUSD": 0.234
+  },
+  {
+    "Date": "2024-01-01",
+    "Currency": "SGD",
+    "RateToUSD": 0.962
+  },
+  {
+    "Date": "2024-01-01",
+    "Currency": "USD",
+    "RateToUSD": 1.422
+  },
+  {
+    "Date": "2024-01-01",
+    "Currency": "GBP",
+    "RateToUSD": 0.948
+  },
+  {
+    "Date": "2024-01-02",
+    "Currency": "MYR",
+    "RateToUSD": 0.705
+  },
+  {
+    "Date": "2024-01-02",
+    "Currency": "SGD",
+    "RateToUSD": 1.036
+  },
+  {
+    "Date": "2024-01-02",
+    "Currency": "USD",
+    "RateToUSD": 0.796
+  },
+  {
+    "Date": "2024-01-02",
+    "Currency": "GBP",
+    "RateToUSD": 0.909
+  },
+  {
+    "Date": "2024-01-03",
+    "Currency": "MYR",
+    "RateToUSD": 1.424
+  },
+  {
+    "Date": "2024-01-03",
+    "Currency": "SGD",
+    "RateToUSD": 0.702
+  },
+  {
+    "Date": "2024-01-03",
+    "Currency": "USD",
+    "RateToUSD": 1.45
+  },
+  {
+    "Date": "2024-01-03",
+    "Currency": "GBP",
+    "RateToUSD": 1.377
+  },
+  {
+    "Date": "2024-01-04",
+    "Currency": "MYR",
+    "RateToUSD": 0.455
+  },
+  {
+    "Date": "2024-01-04",
+    "Currency": "SGD",
+    "RateToUSD": 0.29
+  },
+  {
+    "Date": "2024-01-04",
+    "Currency": "USD",
+    "RateToUSD": 0.331
+  },
+  {
+    "Date": "2024-01-04",
+    "Currency": "GBP",
+    "RateToUSD": 0.224
+  },
+  {
+    "Date": "2024-01-05",
+    "Currency": "MYR",
+    "RateToUSD": 0.323
+  },
+  {
+    "Date": "2024-01-05",
+    "Currency": "SGD",
+    "RateToUSD": 1.088
+  },
+  {
+    "Date": "2024-01-05",
+    "Currency": "USD",
+    "RateToUSD": 0.293
+  },
+  {
+    "Date": "2024-01-05",
+    "Currency": "GBP",
+    "RateToUSD": 0.615
+  },
+  {
+    "Date": "2024-01-06",
+    "Currency": "MYR",
+    "RateToUSD": 1.298
+  },
+  {
+    "Date": "2024-01-06",
+    "Currency": "SGD",
+    "RateToUSD": 0.23
+  },
+  {
+    "Date": "2024-01-06",
+    "Currency": "USD",
+    "RateToUSD": 1.259
+  },
+  {
+    "Date": "2024-01-06",
+    "Currency": "GBP",
+    "RateToUSD": 0.566
+  },
+  {
+    "Date": "2024-01-07",
+    "Currency": "MYR",
+    "RateToUSD": 0.354
+  },
+  {
+    "Date": "2024-01-07",
+    "Currency": "SGD",
+    "RateToUSD": 1.106
+  },
+  {
+    "Date": "2024-01-07",
+    "Currency": "USD",
+    "RateToUSD": 1.018
+  },
+  {
+    "Date": "2024-01-07",
+    "Currency": "GBP",
+    "RateToUSD": 1.341
+  },
+  {
+    "Date": "2024-01-08",
+    "Currency": "MYR",
+    "RateToUSD": 1.156
+  },
+  {
+    "Date": "2024-01-08",
+    "Currency": "SGD",
+    "RateToUSD": 1.245
+  },
+  {
+    "Date": "2024-01-08",
+    "Currency": "USD",
+    "RateToUSD": 0.567
+  },
+  {
+    "Date": "2024-01-08",
+    "Currency": "GBP",
+    "RateToUSD": 0.431
+  },
+  {
+    "Date": "2024-01-09",
+    "Currency": "MYR",
+    "RateToUSD": 1.176
+  },
+  {
+    "Date": "2024-01-09",
+    "Currency": "SGD",
+    "RateToUSD": 1.249
+  },
+  {
+    "Date": "2024-01-09",
+    "Currency": "USD",
+    "RateToUSD": 1.488
+  },
+  {
+    "Date": "2024-01-09",
+    "Currency": "GBP",
+    "RateToUSD": 0.736
+  },
+  {
+    "Date": "2024-01-10",
+    "Currency": "MYR",
+    "RateToUSD": 0.684
+  },
+  {
+    "Date": "2024-01-10",
+    "Currency": "SGD",
+    "RateToUSD": 1.209
+  },
+  {
+    "Date": "2024-01-10",
+    "Currency": "USD",
+    "RateToUSD": 0.643
+  },
+  {
+    "Date": "2024-01-10",
+    "Currency": "GBP",
+    "RateToUSD": 1.41
+  },
+  {
+    "Date": "2024-01-11",
+    "Currency": "MYR",
+    "RateToUSD": 1.316
+  },
+  {
+    "Date": "2024-01-11",
+    "Currency": "SGD",
+    "RateToUSD": 0.758
+  },
+  {
+    "Date": "2024-01-11",
+    "Currency": "USD",
+    "RateToUSD": 1.176
+  },
+  {
+    "Date": "2024-01-11",
+    "Currency": "GBP",
+    "RateToUSD": 1.181
+  },
+  {
+    "Date": "2024-01-12",
+    "Currency": "MYR",
+    "RateToUSD": 0.334
+  },
+  {
+    "Date": "2024-01-12",
+    "Currency": "SGD",
+    "RateToUSD": 1.373
+  },
+  {
+    "Date": "2024-01-12",
+    "Currency": "USD",
+    "RateToUSD": 0.857
+  },
+  {
+    "Date": "2024-01-12",
+    "Currency": "GBP",
+    "RateToUSD": 1.274
+  },
+  {
+    "Date": "2024-01-13",
+    "Currency": "MYR",
+    "RateToUSD": 0.616
+  },
+  {
+    "Date": "2024-01-13",
+    "Currency": "SGD",
+    "RateToUSD": 1.364
+  },
+  {
+    "Date": "2024-01-13",
+    "Currency": "USD",
+    "RateToUSD": 0.706
+  },
+  {
+    "Date": "2024-01-13",
+    "Currency": "GBP",
+    "RateToUSD": 0.214
+  },
+  {
+    "Date": "2024-01-14",
+    "Currency": "MYR",
+    "RateToUSD": 1.377
+  },
+  {
+    "Date": "2024-01-14",
+    "Currency": "SGD",
+    "RateToUSD": 0.319
+  },
+  {
+    "Date": "2024-01-14",
+    "Currency": "USD",
+    "RateToUSD": 0.615
+  },
+  {
+    "Date": "2024-01-14",
+    "Currency": "GBP",
+    "RateToUSD": 1.435
+  },
+  {
+    "Date": "2024-01-15",
+    "Currency": "MYR",
+    "RateToUSD": 1.436
+  },
+  {
+    "Date": "2024-01-15",
+    "Currency": "SGD",
+    "RateToUSD": 0.945
+  },
+  {
+    "Date": "2024-01-15",
+    "Currency": "USD",
+    "RateToUSD": 1.021
+  },
+  {
+    "Date": "2024-01-15",
+    "Currency": "GBP",
+    "RateToUSD": 0.783
+  },
+  {
+    "Date": "2024-01-16",
+    "Currency": "MYR",
+    "RateToUSD": 0.581
+  },
+  {
+    "Date": "2024-01-16",
+    "Currency": "SGD",
+    "RateToUSD": 0.627
+  },
+  {
+    "Date": "2024-01-16",
+    "Currency": "USD",
+    "RateToUSD": 1.074
+  },
+  {
+    "Date": "2024-01-16",
+    "Currency": "GBP",
+    "RateToUSD": 1.178
+  },
+  {
+    "Date": "2024-01-17",
+    "Currency": "MYR",
+    "RateToUSD": 1.229
+  },
+  {
+    "Date": "2024-01-17",
+    "Currency": "SGD",
+    "RateToUSD": 1.227
+  },
+  {
+    "Date": "2024-01-17",
+    "Currency": "USD",
+    "RateToUSD": 0.319
+  },
+  {
+    "Date": "2024-01-17",
+    "Currency": "GBP",
+    "RateToUSD": 0.843
+  },
+  {
+    "Date": "2024-01-18",
+    "Currency": "MYR",
+    "RateToUSD": 0.275
+  },
+  {
+    "Date": "2024-01-18",
+    "Currency": "SGD",
+    "RateToUSD": 0.914
+  },
+  {
+    "Date": "2024-01-18",
+    "Currency": "USD",
+    "RateToUSD": 0.774
+  },
+  {
+    "Date": "2024-01-18",
+    "Currency": "GBP",
+    "RateToUSD": 1.354
+  },
+  {
+    "Date": "2024-01-19",
+    "Currency": "MYR",
+    "RateToUSD": 0.656
+  },
+  {
+    "Date": "2024-01-19",
+    "Currency": "SGD",
+    "RateToUSD": 0.352
+  },
+  {
+    "Date": "2024-01-19",
+    "Currency": "USD",
+    "RateToUSD": 0.386
+  },
+  {
+    "Date": "2024-01-19",
+    "Currency": "GBP",
+    "RateToUSD": 1.19
+  },
+  {
+    "Date": "2024-01-20",
+    "Currency": "MYR",
+    "RateToUSD": 1.004
+  },
+  {
+    "Date": "2024-01-20",
+    "Currency": "SGD",
+    "RateToUSD": 0.331
+  },
+  {
+    "Date": "2024-01-20",
+    "Currency": "USD",
+    "RateToUSD": 0.309
+  },
+  {
+    "Date": "2024-01-20",
+    "Currency": "GBP",
+    "RateToUSD": 1.111
+  },
+  {
+    "Date": "2024-01-21",
+    "Currency": "MYR",
+    "RateToUSD": 0.295
+  },
+  {
+    "Date": "2024-01-21",
+    "Currency": "SGD",
+    "RateToUSD": 1.268
+  },
+  {
+    "Date": "2024-01-21",
+    "Currency": "USD",
+    "RateToUSD": 1.118
+  },
+  {
+    "Date": "2024-01-21",
+    "Currency": "GBP",
+    "RateToUSD": 0.306
+  },
+  {
+    "Date": "2024-01-22",
+    "Currency": "MYR",
+    "RateToUSD": 0.31
+  },
+  {
+    "Date": "2024-01-22",
+    "Currency": "SGD",
+    "RateToUSD": 1.483
+  },
+  {
+    "Date": "2024-01-22",
+    "Currency": "USD",
+    "RateToUSD": 0.687
+  },
+  {
+    "Date": "2024-01-22",
+    "Currency": "GBP",
+    "RateToUSD": 0.682
+  },
+  {
+    "Date": "2024-01-23",
+    "Currency": "MYR",
+    "RateToUSD": 1.257
+  },
+  {
+    "Date": "2024-01-23",
+    "Currency": "SGD",
+    "RateToUSD": 1.431
+  },
+  {
+    "Date": "2024-01-23",
+    "Currency": "USD",
+    "RateToUSD": 1.482
+  },
+  {
+    "Date": "2024-01-23",
+    "Currency": "GBP",
+    "RateToUSD": 1.179
+  },
+  {
+    "Date": "2024-01-24",
+    "Currency": "MYR",
+    "RateToUSD": 0.689
+  },
+  {
+    "Date": "2024-01-24",
+    "Currency": "SGD",
+    "RateToUSD": 0.309
+  },
+  {
+    "Date": "2024-01-24",
+    "Currency": "USD",
+    "RateToUSD": 1.21
+  },
+  {
+    "Date": "2024-01-24",
+    "Currency": "GBP",
+    "RateToUSD": 0.926
+  },
+  {
+    "Date": "2024-01-25",
+    "Currency": "MYR",
+    "RateToUSD": 0.751
+  },
+  {
+    "Date": "2024-01-25",
+    "Currency": "SGD",
+    "RateToUSD": 1.378
+  },
+  {
+    "Date": "2024-01-25",
+    "Currency": "USD",
+    "RateToUSD": 0.345
+  },
+  {
+    "Date": "2024-01-25",
+    "Currency": "GBP",
+    "RateToUSD": 0.84
+  },
+  {
+    "Date": "2024-01-26",
+    "Currency": "MYR",
+    "RateToUSD": 0.215
+  },
+  {
+    "Date": "2024-01-26",
+    "Currency": "SGD",
+    "RateToUSD": 0.809
+  },
+  {
+    "Date": "2024-01-26",
+    "Currency": "USD",
+    "RateToUSD": 0.273
+  },
+  {
+    "Date": "2024-01-26",
+    "Currency": "GBP",
+    "RateToUSD": 0.354
+  },
+  {
+    "Date": "2024-01-27",
+    "Currency": "MYR",
+    "RateToUSD": 0.353
+  },
+  {
+    "Date": "2024-01-27",
+    "Currency": "SGD",
+    "RateToUSD": 1.044
+  },
+  {
+    "Date": "2024-01-27",
+    "Currency": "USD",
+    "RateToUSD": 1.17
+  },
+  {
+    "Date": "2024-01-27",
+    "Currency": "GBP",
+    "RateToUSD": 0.958
+  },
+  {
+    "Date": "2024-01-28",
+    "Currency": "MYR",
+    "RateToUSD": 1.451
+  },
+  {
+    "Date": "2024-01-28",
+    "Currency": "SGD",
+    "RateToUSD": 0.687
+  },
+  {
+    "Date": "2024-01-28",
+    "Currency": "USD",
+    "RateToUSD": 0.571
+  },
+  {
+    "Date": "2024-01-28",
+    "Currency": "GBP",
+    "RateToUSD": 1.329
+  },
+  {
+    "Date": "2024-01-29",
+    "Currency": "MYR",
+    "RateToUSD": 0.491
+  },
+  {
+    "Date": "2024-01-29",
+    "Currency": "SGD",
+    "RateToUSD": 1.452
+  },
+  {
+    "Date": "2024-01-29",
+    "Currency": "USD",
+    "RateToUSD": 0.216
+  },
+  {
+    "Date": "2024-01-29",
+    "Currency": "GBP",
+    "RateToUSD": 1.461
+  },
+  {
+    "Date": "2024-01-30",
+    "Currency": "MYR",
+    "RateToUSD": 0.256
+  },
+  {
+    "Date": "2024-01-30",
+    "Currency": "SGD",
+    "RateToUSD": 1.358
+  },
+  {
+    "Date": "2024-01-30",
+    "Currency": "USD",
+    "RateToUSD": 0.886
+  },
+  {
+    "Date": "2024-01-30",
+    "Currency": "GBP",
+    "RateToUSD": 1.491
+  },
+  {
+    "Date": "2024-01-31",
+    "Currency": "MYR",
+    "RateToUSD": 0.296
+  },
+  {
+    "Date": "2024-01-31",
+    "Currency": "SGD",
+    "RateToUSD": 0.92
+  },
+  {
+    "Date": "2024-01-31",
+    "Currency": "USD",
+    "RateToUSD": 1.46
+  },
+  {
+    "Date": "2024-01-31",
+    "Currency": "GBP",
+    "RateToUSD": 0.88
+  },
+  {
+    "Date": "2024-02-01",
+    "Currency": "MYR",
+    "RateToUSD": 1.018
+  },
+  {
+    "Date": "2024-02-01",
+    "Currency": "SGD",
+    "RateToUSD": 1.104
+  },
+  {
+    "Date": "2024-02-01",
+    "Currency": "USD",
+    "RateToUSD": 0.791
+  },
+  {
+    "Date": "2024-02-01",
+    "Currency": "GBP",
+    "RateToUSD": 1.016
+  },
+  {
+    "Date": "2024-02-02",
+    "Currency": "MYR",
+    "RateToUSD": 0.96
+  },
+  {
+    "Date": "2024-02-02",
+    "Currency": "SGD",
+    "RateToUSD": 1.372
+  },
+  {
+    "Date": "2024-02-02",
+    "Currency": "USD",
+    "RateToUSD": 0.259
+  },
+  {
+    "Date": "2024-02-02",
+    "Currency": "GBP",
+    "RateToUSD": 0.565
+  },
+  {
+    "Date": "2024-02-03",
+    "Currency": "MYR",
+    "RateToUSD": 1.436
+  },
+  {
+    "Date": "2024-02-03",
+    "Currency": "SGD",
+    "RateToUSD": 1.357
+  },
+  {
+    "Date": "2024-02-03",
+    "Currency": "USD",
+    "RateToUSD": 0.792
+  },
+  {
+    "Date": "2024-02-03",
+    "Currency": "GBP",
+    "RateToUSD": 1.006
+  },
+  {
+    "Date": "2024-02-04",
+    "Currency": "MYR",
+    "RateToUSD": 0.561
+  },
+  {
+    "Date": "2024-02-04",
+    "Currency": "SGD",
+    "RateToUSD": 0.445
+  },
+  {
+    "Date": "2024-02-04",
+    "Currency": "USD",
+    "RateToUSD": 0.803
+  },
+  {
+    "Date": "2024-02-04",
+    "Currency": "GBP",
+    "RateToUSD": 0.659
+  },
+  {
+    "Date": "2024-02-05",
+    "Currency": "MYR",
+    "RateToUSD": 0.959
+  },
+  {
+    "Date": "2024-02-05",
+    "Currency": "SGD",
+    "RateToUSD": 0.301
+  },
+  {
+    "Date": "2024-02-05",
+    "Currency": "USD",
+    "RateToUSD": 1.467
+  },
+  {
+    "Date": "2024-02-05",
+    "Currency": "GBP",
+    "RateToUSD": 1.482
+  },
+  {
+    "Date": "2024-02-06",
+    "Currency": "MYR",
+    "RateToUSD": 1.108
+  },
+  {
+    "Date": "2024-02-06",
+    "Currency": "SGD",
+    "RateToUSD": 0.897
+  },
+  {
+    "Date": "2024-02-06",
+    "Currency": "USD",
+    "RateToUSD": 0.602
+  },
+  {
+    "Date": "2024-02-06",
+    "Currency": "GBP",
+    "RateToUSD": 1.258
+  },
+  {
+    "Date": "2024-02-07",
+    "Currency": "MYR",
+    "RateToUSD": 1.09
+  },
+  {
+    "Date": "2024-02-07",
+    "Currency": "SGD",
+    "RateToUSD": 0.411
+  },
+  {
+    "Date": "2024-02-07",
+    "Currency": "USD",
+    "RateToUSD": 1.384
+  },
+  {
+    "Date": "2024-02-07",
+    "Currency": "GBP",
+    "RateToUSD": 1.269
+  },
+  {
+    "Date": "2024-02-08",
+    "Currency": "MYR",
+    "RateToUSD": 1.435
+  },
+  {
+    "Date": "2024-02-08",
+    "Currency": "SGD",
+    "RateToUSD": 1.143
+  },
+  {
+    "Date": "2024-02-08",
+    "Currency": "USD",
+    "RateToUSD": 0.997
+  },
+  {
+    "Date": "2024-02-08",
+    "Currency": "GBP",
+    "RateToUSD": 0.744
+  },
+  {
+    "Date": "2024-02-09",
+    "Currency": "MYR",
+    "RateToUSD": 1.413
+  },
+  {
+    "Date": "2024-02-09",
+    "Currency": "SGD",
+    "RateToUSD": 1.326
+  },
+  {
+    "Date": "2024-02-09",
+    "Currency": "USD",
+    "RateToUSD": 0.259
+  },
+  {
+    "Date": "2024-02-09",
+    "Currency": "GBP",
+    "RateToUSD": 0.234
+  },
+  {
+    "Date": "2024-02-10",
+    "Currency": "MYR",
+    "RateToUSD": 0.689
+  },
+  {
+    "Date": "2024-02-10",
+    "Currency": "SGD",
+    "RateToUSD": 1.254
+  },
+  {
+    "Date": "2024-02-10",
+    "Currency": "USD",
+    "RateToUSD": 1.483
+  },
+  {
+    "Date": "2024-02-10",
+    "Currency": "GBP",
+    "RateToUSD": 0.396
+  },
+  {
+    "Date": "2024-02-11",
+    "Currency": "MYR",
+    "RateToUSD": 0.972
+  },
+  {
+    "Date": "2024-02-11",
+    "Currency": "SGD",
+    "RateToUSD": 0.695
+  },
+  {
+    "Date": "2024-02-11",
+    "Currency": "USD",
+    "RateToUSD": 1.461
+  },
+  {
+    "Date": "2024-02-11",
+    "Currency": "GBP",
+    "RateToUSD": 1.295
+  },
+  {
+    "Date": "2024-02-12",
+    "Currency": "MYR",
+    "RateToUSD": 1.29
+  },
+  {
+    "Date": "2024-02-12",
+    "Currency": "SGD",
+    "RateToUSD": 0.809
+  },
+  {
+    "Date": "2024-02-12",
+    "Currency": "USD",
+    "RateToUSD": 0.739
+  },
+  {
+    "Date": "2024-02-12",
+    "Currency": "GBP",
+    "RateToUSD": 0.555
+  },
+  {
+    "Date": "2024-02-13",
+    "Currency": "MYR",
+    "RateToUSD": 0.273
+  },
+  {
+    "Date": "2024-02-13",
+    "Currency": "SGD",
+    "RateToUSD": 1.324
+  },
+  {
+    "Date": "2024-02-13",
+    "Currency": "USD",
+    "RateToUSD": 1.257
+  },
+  {
+    "Date": "2024-02-13",
+    "Currency": "GBP",
+    "RateToUSD": 1.5
+  },
+  {
+    "Date": "2024-02-14",
+    "Currency": "MYR",
+    "RateToUSD": 1.496
+  },
+  {
+    "Date": "2024-02-14",
+    "Currency": "SGD",
+    "RateToUSD": 0.922
+  },
+  {
+    "Date": "2024-02-14",
+    "Currency": "USD",
+    "RateToUSD": 1.2
+  },
+  {
+    "Date": "2024-02-14",
+    "Currency": "GBP",
+    "RateToUSD": 1.428
+  },
+  {
+    "Date": "2024-02-15",
+    "Currency": "MYR",
+    "RateToUSD": 1.305
+  },
+  {
+    "Date": "2024-02-15",
+    "Currency": "SGD",
+    "RateToUSD": 0.522
+  },
+  {
+    "Date": "2024-02-15",
+    "Currency": "USD",
+    "RateToUSD": 0.786
+  },
+  {
+    "Date": "2024-02-15",
+    "Currency": "GBP",
+    "RateToUSD": 0.368
+  },
+  {
+    "Date": "2024-02-16",
+    "Currency": "MYR",
+    "RateToUSD": 1.44
+  },
+  {
+    "Date": "2024-02-16",
+    "Currency": "SGD",
+    "RateToUSD": 0.988
+  },
+  {
+    "Date": "2024-02-16",
+    "Currency": "USD",
+    "RateToUSD": 0.497
+  },
+  {
+    "Date": "2024-02-16",
+    "Currency": "GBP",
+    "RateToUSD": 1.073
+  },
+  {
+    "Date": "2024-02-17",
+    "Currency": "MYR",
+    "RateToUSD": 1.004
+  },
+  {
+    "Date": "2024-02-17",
+    "Currency": "SGD",
+    "RateToUSD": 0.666
+  },
+  {
+    "Date": "2024-02-17",
+    "Currency": "USD",
+    "RateToUSD": 0.348
+  },
+  {
+    "Date": "2024-02-17",
+    "Currency": "GBP",
+    "RateToUSD": 1.073
+  },
+  {
+    "Date": "2024-02-18",
+    "Currency": "MYR",
+    "RateToUSD": 0.876
+  },
+  {
+    "Date": "2024-02-18",
+    "Currency": "SGD",
+    "RateToUSD": 1.204
+  },
+  {
+    "Date": "2024-02-18",
+    "Currency": "USD",
+    "RateToUSD": 0.876
+  },
+  {
+    "Date": "2024-02-18",
+    "Currency": "GBP",
+    "RateToUSD": 1.308
+  },
+  {
+    "Date": "2024-02-19",
+    "Currency": "MYR",
+    "RateToUSD": 0.917
+  },
+  {
+    "Date": "2024-02-19",
+    "Currency": "SGD",
+    "RateToUSD": 0.929
+  },
+  {
+    "Date": "2024-02-19",
+    "Currency": "USD",
+    "RateToUSD": 1.34
+  },
+  {
+    "Date": "2024-02-19",
+    "Currency": "GBP",
+    "RateToUSD": 0.725
+  },
+  {
+    "Date": "2024-02-20",
+    "Currency": "MYR",
+    "RateToUSD": 0.374
+  },
+  {
+    "Date": "2024-02-20",
+    "Currency": "SGD",
+    "RateToUSD": 0.237
+  },
+  {
+    "Date": "2024-02-20",
+    "Currency": "USD",
+    "RateToUSD": 1.182
+  },
+  {
+    "Date": "2024-02-20",
+    "Currency": "GBP",
+    "RateToUSD": 1.006
+  },
+  {
+    "Date": "2024-02-21",
+    "Currency": "MYR",
+    "RateToUSD": 1.115
+  },
+  {
+    "Date": "2024-02-21",
+    "Currency": "SGD",
+    "RateToUSD": 0.477
+  },
+  {
+    "Date": "2024-02-21",
+    "Currency": "USD",
+    "RateToUSD": 0.377
+  },
+  {
+    "Date": "2024-02-21",
+    "Currency": "GBP",
+    "RateToUSD": 0.219
+  },
+  {
+    "Date": "2024-02-22",
+    "Currency": "MYR",
+    "RateToUSD": 0.656
+  },
+  {
+    "Date": "2024-02-22",
+    "Currency": "SGD",
+    "RateToUSD": 0.967
+  },
+  {
+    "Date": "2024-02-22",
+    "Currency": "USD",
+    "RateToUSD": 0.71
+  },
+  {
+    "Date": "2024-02-22",
+    "Currency": "GBP",
+    "RateToUSD": 0.769
+  },
+  {
+    "Date": "2024-02-23",
+    "Currency": "MYR",
+    "RateToUSD": 1.375
+  },
+  {
+    "Date": "2024-02-23",
+    "Currency": "SGD",
+    "RateToUSD": 0.653
+  },
+  {
+    "Date": "2024-02-23",
+    "Currency": "USD",
+    "RateToUSD": 0.868
+  },
+  {
+    "Date": "2024-02-23",
+    "Currency": "GBP",
+    "RateToUSD": 1.219
+  },
+  {
+    "Date": "2024-02-24",
+    "Currency": "MYR",
+    "RateToUSD": 0.716
+  },
+  {
+    "Date": "2024-02-24",
+    "Currency": "SGD",
+    "RateToUSD": 1.009
+  },
+  {
+    "Date": "2024-02-24",
+    "Currency": "USD",
+    "RateToUSD": 1.321
+  },
+  {
+    "Date": "2024-02-24",
+    "Currency": "GBP",
+    "RateToUSD": 1.434
+  },
+  {
+    "Date": "2024-02-25",
+    "Currency": "MYR",
+    "RateToUSD": 0.391
+  },
+  {
+    "Date": "2024-02-25",
+    "Currency": "SGD",
+    "RateToUSD": 1.405
+  },
+  {
+    "Date": "2024-02-25",
+    "Currency": "USD",
+    "RateToUSD": 0.84
+  },
+  {
+    "Date": "2024-02-25",
+    "Currency": "GBP",
+    "RateToUSD": 0.536
+  },
+  {
+    "Date": "2024-02-26",
+    "Currency": "MYR",
+    "RateToUSD": 0.797
+  },
+  {
+    "Date": "2024-02-26",
+    "Currency": "SGD",
+    "RateToUSD": 1.474
+  },
+  {
+    "Date": "2024-02-26",
+    "Currency": "USD",
+    "RateToUSD": 0.84
+  },
+  {
+    "Date": "2024-02-26",
+    "Currency": "GBP",
+    "RateToUSD": 0.627
+  },
+  {
+    "Date": "2024-02-27",
+    "Currency": "MYR",
+    "RateToUSD": 1.023
+  },
+  {
+    "Date": "2024-02-27",
+    "Currency": "SGD",
+    "RateToUSD": 0.512
+  },
+  {
+    "Date": "2024-02-27",
+    "Currency": "USD",
+    "RateToUSD": 0.299
+  },
+  {
+    "Date": "2024-02-27",
+    "Currency": "GBP",
+    "RateToUSD": 0.368
+  },
+  {
+    "Date": "2024-02-28",
+    "Currency": "MYR",
+    "RateToUSD": 0.366
+  },
+  {
+    "Date": "2024-02-28",
+    "Currency": "SGD",
+    "RateToUSD": 0.397
+  },
+  {
+    "Date": "2024-02-28",
+    "Currency": "USD",
+    "RateToUSD": 0.38
+  },
+  {
+    "Date": "2024-02-28",
+    "Currency": "GBP",
+    "RateToUSD": 1.033
+  },
+  {
+    "Date": "2024-02-29",
+    "Currency": "MYR",
+    "RateToUSD": 0.436
+  },
+  {
+    "Date": "2024-02-29",
+    "Currency": "SGD",
+    "RateToUSD": 0.649
+  },
+  {
+    "Date": "2024-02-29",
+    "Currency": "USD",
+    "RateToUSD": 1.366
+  },
+  {
+    "Date": "2024-02-29",
+    "Currency": "GBP",
+    "RateToUSD": 0.816
+  }
+]
